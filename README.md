@@ -1,2 +1,2 @@
-# petgram
+# Petgram
 Recriando a página inicial do Instagram
