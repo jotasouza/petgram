@@ -35,7 +35,7 @@ O projeto foi desenvolvido a partir das metodologias:
 
 ## Deploy
 
-[Petgram](https://project-goomark.vercel.app)
+[Petgram](https://petgram-omega-bay.vercel.app)
 
 ## Autor
 
