@@ -16,7 +16,7 @@
 
 ## Sobre
 
-<p align="justify">Repositório dedicado a resolução do desafio proposto para execução do Projeto: Recriando a página inicial do Instagram contido no Santander BootCamp FullStack Developer da Digital Innovation One. O projeto foi ministrado por Gabriela Pinheiro, Professora e Front-End Engineer. O projeto aborda o conceito de CSS Flexbox e Responsividade.</p>
+<p align="justify">Repositório dedicado a resolução do desafio proposto para execução do Projeto: Recriando a página inicial do Instagram contido no Santander BootCamp FullStack Developer da Digital Innovation One. O projeto aborda conceitos de CSS, flexbox e responsividade.</p>
 
 ## Tecnologias
 
