@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    Petgram - projeto recriando a página pnicial do Instagram - DIO 
+    Petgram - projeto recriando a página inicial do Instagram - DIO 
 </h1>
 
 <p align="center">
